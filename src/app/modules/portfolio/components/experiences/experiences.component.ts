@@ -12,7 +12,7 @@ export class ExperiencesComponent {
     {
       summary: {
         strong: "Assessor Técnico de Engenharia",
-        p: "Secretaria Municipal da Habitação | Abr 2022 - Atual"
+        p: "Secretaria Municipal da Habitação | Abr 2022 - Dez 2024"
       },
       text: "<p>Atividades de assessoria técnica em geral.</p> <p>Elaboração de Ofícios e Termos de Referência.</p> <p>Elaboração de Processos Licitatórios.</p> <p>Participação na elaboração de legislação de apoio e normativas aos programas habitacionais.</p>"
     },
