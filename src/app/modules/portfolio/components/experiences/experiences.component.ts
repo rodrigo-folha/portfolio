@@ -11,7 +11,21 @@ export class ExperiencesComponent {
   public arrayExperiences = signal<IExperiences[]>([
     {
       summary: {
-        strong: "Assessor Técnico de Engenharia",
+        strong: "Desenvolvedor Java",
+        p: "Tecnotins | Abr 2024 - Atual"
+      },
+      text: "<p>Atuo com o desenvolvimento de um sistema voltado a sindicatos, associações e instituições (DATASIND) utilizando Java, JSF, PrimeFaces e MySQL.</p> <p>Atuo em um projeto secundário em Java, Spring Boot, PostgreSQL e testes unitários com JUnit.</p> <p>Utilização de Padrões de Projeto: Singleton, Provider, Factory, Strategy.</p>"
+    },
+    {
+      summary: {
+        strong: "Freelancer",
+        p: "Freelancer | Set 2024 - Atual"
+      },
+      text: "<p>Desenvolvimento de Sistemas.</p> <p>Criação de Landing Pages.</p> <p>Automação de planilhas e web scraping.</p> <p>Elaboração de dashboard com Power BI</p>"
+    },
+    {
+      summary: {
+        strong: "Assessor Técnico",
         p: "Secretaria Municipal da Habitação | Abr 2022 - Dez 2024"
       },
       text: "<p>Atividades de assessoria técnica em geral.</p> <p>Elaboração de Ofícios e Termos de Referência.</p> <p>Elaboração de Processos Licitatórios.</p> <p>Participação na elaboração de legislação de apoio e normativas aos programas habitacionais.</p>"
@@ -37,5 +51,6 @@ export class ExperiencesComponent {
       },
       text: "<p>Atividades de Engenharia Civil e Arquitetura em Geral</p>"
     },
+
   ])
 }
