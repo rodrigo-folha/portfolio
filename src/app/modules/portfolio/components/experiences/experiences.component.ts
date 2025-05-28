@@ -12,7 +12,7 @@ export class ExperiencesComponent {
     {
       summary: {
         strong: "Desenvolvedor Java",
-        p: "Tecnotins | Abr 2024 - Atual"
+        p: "Tecnotins | Jan 2025 - Atual"
       },
       text: "<p>Atuo com o desenvolvimento de um sistema voltado a sindicatos, associações e instituições (DATASIND) utilizando Java, JSF, PrimeFaces e MySQL.</p> <p>Atuo em um projeto secundário em Java, Spring Boot, PostgreSQL e testes unitários com JUnit.</p> <p>Utilização de Padrões de Projeto: Singleton, Provider, Factory, Strategy.</p>"
     },
