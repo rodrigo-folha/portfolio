@@ -14,14 +14,14 @@ export class ExperiencesComponent {
         strong: "Desenvolvedor Java",
         p: "Tecnotins | Jan 2025 - Atual"
       },
-      text: "<p>Atuo com o desenvolvimento de um sistema voltado a sindicatos, associações e instituições (DATASIND) utilizando Java, JSF, PrimeFaces e MySQL.</p> <p>Atuo em um projeto secundário em Java, Spring Boot, PostgreSQL e testes unitários com JUnit.</p> <p>Utilização de Padrões de Projeto: Singleton, Provider, Factory, Strategy.</p>"
+      text: "<p>Desenvolvo e mantenho funcionalidades no sistema DATASIND (Java, JSF, PrimeFaces, MySQL), atendendo milhares de usuários de sindicatos e associações em todo o Brasil, com foco em estabilidade e usabilidade. </p> <p>Implemento módulos backend utilizando Spring Boot e PostgreSQL em projeto paralelo, integrando com frontend Angular e garantindo testes automatizados com JUnit para confiabilidade em produção.</p> <p> Participo da criação de microsserviços independentes com autenticação JWT, organizando responsabilidades por domínio e favorecendo escalabilidade e manutenção contínua. </p> <p> Aplico princípios SOLID e diversos padrões de projeto (Singleton, Factory, Provider, Strategy), promovendo maior legibilidade, reutilização de código e desacoplamento entre camadas. </p> <p> Iniciei testes de mensageria com Kafka para promover comunicação assíncrona entre serviços, preparando a arquitetura para suportar cargas maiores e reduzir dependências diretas. </p> <p> Documento APIs RESTful com Swagger e organizei a arquitetura de pacotes conforme boas práticas do Spring, facilitando o onboarding de novos membros na equipe.</p>"
     },
     {
       summary: {
         strong: "Freelancer",
-        p: "Freelancer | Set 2024 - Atual"
+        p: "Freelancer | Set 2023 - Atual"
       },
-      text: "<p>Desenvolvimento de Sistemas.</p> <p>Criação de Landing Pages.</p> <p>Automação de planilhas e web scraping.</p> <p>Elaboração de dashboard com Power BI</p>"
+      text: "<p>Desenvolvi sistemas web utilizando Java, Spring Boot e Angular, com foco em APIs RESTful e estrutura modular, entregando soluções adaptadas a clientes de pequeno e médio porte.</p> <p>Implementei microsserviços desacoplados com PostgreSQL e MongoDB, aplicando princípios SOLID e facilitando a escalabilidade de aplicações.</p> <p>Automatizei rotinas empresariais com scripts de web scraping e integração com planilhas Google Sheets, reduzindo tempo operacional em até 60%.</p> <p>Projetei e publiquei landing pages responsivas com HTML, CSS, Angular, e também via WordPress, aumentando a visibilidade online de profissionais autônomos. </p> <p> Criei dashboards de Business Intelligence com Power BI, conectando múltiplas fontes de dados e melhorando a tomada de decisão dos clientes.</p> <p> Realizei testes unitários e de integração com JUnit e Postman para garantir a confiabilidade dos serviços backend.</p> <p>Configurei ambientes de desenvolvimento com Docker, facilitando o deploy e a portabilidade das aplicações.</p> <p>Implementei autenticação com OAuth2, JWT e Keycloak em sistemas personalizados, garantindo segurança e controle de acesso eficaz.</p>"
     },
     {
       summary: {
